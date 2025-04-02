@@ -6,65 +6,65 @@ Este é um jogo da forca simples desenvolvido na linguagem Processing. O jogador
 
 Funcionalidades
 
-Interface visual interativa.
+- Interface visual interativa.
 
-Sorteio aleatório de palavras.
+- Sorteio aleatório de palavras.
 
-Exibição das letras já tentadas.
+- Exibição das letras já tentadas.
 
-Contagem de tentativas restantes.
+- Contagem de tentativas restantes.
 
-Botão "Jogar de Novo" para reiniciar a partida após o fim do jogo.
+- Botão "Jogar de Novo" para reiniciar a partida após o fim do jogo.
 
 Controles
 
-Teclado: Digite uma letra para fazer uma tentativa.
+- Teclado: Digite uma letra para fazer uma tentativa.
 
-Mouse: Clique no botão "Jogar de Novo" para iniciar uma nova partida.
+- Mouse: Clique no botão "Jogar de Novo" para iniciar uma nova partida.
 
 Regras do Jogo
 
-O jogo sorteia uma palavra aleatoriamente.
+1. O jogo sorteia uma palavra aleatoriamente.
 
-O jogador tenta adivinhar a palavra letra por letra.
+2. O jogador tenta adivinhar a palavra letra por letra.
 
-Cada erro faz com que uma parte da forca seja desenhada.
+3. Cada erro faz com que uma parte da forca seja desenhada.
 
-O jogo termina quando:
+4. O jogo termina quando:
 
-O jogador acerta todas as letras (Vitória).
+- O jogador acerta todas as letras (Vitória).
 
-O jogador erra seis vezes (Derrota).
+- O jogador erra seis vezes (Derrota).
 
 Implementação
 
 O jogo foi desenvolvido utilizando a linguagem Processing e conta com:
 
-Um array de palavras pré-definidas.
+- Um array de palavras pré-definidas.
 
-Verificação de letras corretas e erradas.
+- Verificação de letras corretas e erradas.
 
-Desenho progressivo da forca conforme os erros acontecem.
+- Desenho progressivo da forca conforme os erros acontecem.
 
-Mensagens visuais indicando vitória ou derrota.
+- Mensagens visuais indicando vitória ou derrota.
 
 Como Executar
 
-Instale o Processing.
+1. Instale o Processing.
 
-Copie e cole o código no editor do Processing.
+2. Copie e cole o código no editor do Processing.
 
-Pressione "Run" para iniciar o jogo.
+3. Pressione "Run" para iniciar o jogo.
 
 Melhorias Futuras
 
-Adição de um banco de palavras mais extenso.
+- Adição de um banco de palavras mais extenso.
 
-Implementação de categorias temáticas para as palavras.
+- Implementação de categorias temáticas para as palavras.
 
-Opção de inserir palavras personalizadas.
+- Opção de inserir palavras personalizadas.
 
-Melhorias gráficas e animações.
+- Melhorias gráficas e animações.
 
 Alunos
 
