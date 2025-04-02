@@ -68,10 +68,8 @@ Melhorias gráficas e animações.
 
 Alunos
 
-Nome do Desenvolvedor 1 - Matrícula
-
-Nome do Desenvolvedor 2 - Matrícula
-
-Nome do Desenvolvedor 3 - Matrícula
+- Eduardo Branco Ferrario - 01585198
+- Guilherme Branco Ferrario - 01596391
+- Thiago de Morais Gonçalves - 01609695
 
 Divirta-se jogando! 🎉
