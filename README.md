@@ -1,10 +1,10 @@
-Jogo da Forca
+JOGO DA FORCA
 
-Descrição
+DESCRIÇÃO
 
 Este é um jogo da forca simples desenvolvido na linguagem Processing. O jogador deve adivinhar uma palavra secreta antes que todas as tentativas se esgotem. O jogo exibe a forca sendo desenhada progressivamente conforme erros ocorrem.
 
-Funcionalidades
+FUNCIONALIDADES
 
 - Interface visual interativa.
 
@@ -16,13 +16,13 @@ Funcionalidades
 
 - Botão "Jogar de Novo" para reiniciar a partida após o fim do jogo.
 
-Controles
+CONTROLES
 
 - Teclado: Digite uma letra para fazer uma tentativa.
 
 - Mouse: Clique no botão "Jogar de Novo" para iniciar uma nova partida.
 
-Regras do Jogo
+REGRAS DO JOGO
 
 1. O jogo sorteia uma palavra aleatoriamente.
 
@@ -36,7 +36,7 @@ Regras do Jogo
 
 - O jogador erra seis vezes (Derrota).
 
-Implementação
+IMPLEMENTAÇÃO
 
 O jogo foi desenvolvido utilizando a linguagem Processing e conta com:
 
@@ -48,7 +48,7 @@ O jogo foi desenvolvido utilizando a linguagem Processing e conta com:
 
 - Mensagens visuais indicando vitória ou derrota.
 
-Como Executar
+COMO EXECUTAR
 
 1. Instale o Processing.
 
@@ -56,7 +56,7 @@ Como Executar
 
 3. Pressione "Run" para iniciar o jogo.
 
-Melhorias Futuras
+MELHORIAS FUTURAS
 
 - Adição de um banco de palavras mais extenso.
 
@@ -66,7 +66,7 @@ Melhorias Futuras
 
 - Melhorias gráficas e animações.
 
-Alunos
+ALUNOS
 
 - Eduardo Branco Ferrario - 01585198
 - Guilherme Branco Ferrario - 01596391
